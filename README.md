@@ -3,8 +3,8 @@
 Developed HuaRongDao Game, wrote requirements for Drugpump and do validation to Elevator
 
 #### HuaRongDao
-
-![image-20210727233002432](C:\Users\asus\AppData\Roaming\Typora\typora-user-images\image-20210727233002432.png)
+<div style="text-align:center"><img src="/images/image-20210727233002432.png" /></div>
+Unzip HuarongDaoCode.zip, run main.m to start the game
 
 - Choose one set beginning of the game
   The player can choose one beginning form the nine start state that has been set. 
@@ -22,41 +22,43 @@ Developed HuaRongDao Game, wrote requirements for Drugpump and do validation to 
   To start Huarong Path game, click the “开始” button and the game will start with the set beginning state. If the player has not made any settings before, the game will start in the default state of "横刀立马".
 
 - selMenu
-  The Huarong Path APP has a menu for custom beginning named “selMenu”, which is shown below: ![image-20210727233219365](C:\Users\asus\AppData\Roaming\Typora\typora-user-images\image-20210727233219365.png)
+  The Huarong Path APP has a menu for custom beginning named “selMenu”, which is shown below: ![image-20210727233219365](/images/image-20210727233219365.png)
 
 - Custom beginning
   The system will provide a series of chess pieces in the order of “曹操、张飞、赵云、黄忠、马超、卒、卒、卒、卒”. The player needs to select the position of the chess pieces in the grid shown on the right. The image of the current chessboard state will be displayed on the left. The "start" button can only be pressed after all pieces have been placed.
   This is an example:
   First, the chess piece is “曹操”, click a position in the grid to place it.
 
-![image-20210727233514676](C:\Users\asus\AppData\Roaming\Typora\typora-user-images\image-20210727233514676.png)
+<div style="text-align:center"><img src="/images/image-20210727233514676.png" /></div>
 
 ​		The selected position is the position corresponding to the upper left square of the chess piece. “曹操” is then placed in this 		position. The squares that have been placed will turn grey and cannot be clicked.
 
-![image-20210727233537490](C:\Users\asus\AppData\Roaming\Typora\typora-user-images\image-20210727233537490.png)
+<div style="text-align:center"><img src="/images/image-20210727233537490.png" /></div>
 
 ​		The next chess piece is “张飞”, click a position in the grid to place it.
 
-![image-20210727233547137](C:\Users\asus\AppData\Roaming\Typora\typora-user-images\image-20210727233547137.png)
+<div style="text-align:center"><img src="/images/image-20210727233547137.png" /></div>
 
 ​		“张飞” is placed then. 
 
-![image-20210727233556675](C:\Users\asus\AppData\Roaming\Typora\typora-user-images\image-20210727233556675.png)
+<div style="text-align:center"><img src="/images/image-20210727233556675.png" /></div>
 
 ​		Repeat this step until all pieces are placed. Only at this time, the "开始" button can be pressed.
 
-![image-20210727233603932](C:\Users\asus\AppData\Roaming\Typora\typora-user-images\image-20210727233603932.png)
+<div style="text-align:center"><img src="/images/image-20210727233603932.png" /></div>
 
 ​		Click the start button, and the player can start the game with custom beginning. 
 ​		If the player wants to rearrange the pieces, just press the "重置" button and the game will return to its original state.
 
-![image-20210727233812520](C:\Users\asus\AppData\Roaming\Typora\typora-user-images\image-20210727233812520.png)
+<div style="text-align:center"><img src="/images/image-20210727233812520.png" /></div>
 
 - Return to the main menu
   The player can click “返回主菜单” button to return to the main menu.
 
 - mainInterface
-  The Huarong Path APP has a UI named ”mainInterface” for player to play the game: ![image-20210727233926055](C:\Users\asus\AppData\Roaming\Typora\typora-user-images\image-20210727233926055.png)
+  The Huarong Path APP has a UI named ”mainInterface” for player to play the game: 
+  
+  <div style="text-align:center"><img src="/images/image-20210727233926055.png" /></div>
 
 - Choose and move chess piece
   First, click the figure of a chess piece that the player wants to move. For example, the solder in the lower left corner:
